@@ -64,6 +64,7 @@
   font-weight: 600;
   margin-left: 650px;
   margin-top: 68px;
+  cursor: pointer;
 }
 .section .box {
   width: 100%;
@@ -100,6 +101,7 @@
   font-size: 13px;
   font-weight: 600;
   padding: 28px;
+  cursor: pointer;
 }
 .section .hello-1 {
   display: -webkit-box;
